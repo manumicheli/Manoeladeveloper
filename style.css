@@ -2,6 +2,11 @@
  
 @media only screen and (max-device-width: 900px) {
 .menu { width:100%; } 
+ .header-container { width:100%; }
+ .body { width:100%};
+ .menu-items {widht:100%};
+ .h1, .h2{ width:100%};
+ 
 }
 
 body {
