@@ -9,6 +9,12 @@
  
 }
 
+@media only screen and (max-device-width: 600px) {
+ 
+ .menu-items { width:100%);
+  float:none;
+}
+
 body {
    margin: 0;
    padding: 0;
