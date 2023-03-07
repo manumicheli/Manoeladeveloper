@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@600&family=Poppins:wght@300;400;500;700&family=Ubuntu&display=swap');
  
 @media only screen and (max-device-width: 900px) {
-.menu { width:600%; } 
- .header-container { width:600%; }
- .body { width:600%};
- .menu-items {widht:600%};
- .h1, .h2{ width:600%};
+.menu { width:400%; } 
+ .header-container { width:400%; }
+ .body { width:400%};
+ .menu-items {widht:400%};
+ .h1, .h2{ width:400%};
+ .social-media{ width:400%};
+ .social-media a{ width:400%};
+ .menu-items ul li a {width:400%];
 
  
 }
@@ -228,7 +231,7 @@ font-size: 40px;
   display: flex;
   justify-content: space-evenly;
   align-items: center;
-  width: 90%;
+  width: 95%;
 }
 
 .card{
