@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=League+Spartan:wght@600&family=Poppins:wght@300;400;500;700&family=Ubuntu&display=swap');
  
-@media only screen and (max-device-width: 600px) {
+@media only screen and (max-device-width: 900px) {
 .menu { width:100%; } 
  .header-container { width:100%; }
  .body { width:100%};
@@ -9,7 +9,7 @@
  
 }
 
-@media only screen and (max-device-width: 600px) {
+@media only screen and (max-device-width: 900px) {
  
  .menu-items { width:100%);
   float:none;
