@@ -5,10 +5,11 @@
  .header-container { width:100%};
  .body { width:100%};
  .menu-items {widht:100%};
- .h1, .h2{ width:100%};
- .social-media{ width:100%};
- .social-media a{ width:100%};
+ .h1, .h2 { width:100%};
+ .social-media { width:100%};
+ .social-media a { width:100%};
  .menu-items ul li a {width:100%};
+ float:none;
 
  
 }
