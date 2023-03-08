@@ -307,8 +307,8 @@ font-size: 40px;
 }
 
 .card:hover > .card-wrapper::before{
-  height: 230px;
-  width: 230px;
+  height: 150px;
+  width: 150px;
   opacity: 1;
 }
 
